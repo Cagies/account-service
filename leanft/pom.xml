@@ -66,7 +66,7 @@
 		<dependency>
 			<groupId>pl.pragmatists</groupId>
 			<artifactId>JUnitParams</artifactId>
-			<version>1.0.4</version>
+			<version>1.1.1</version>
 		</dependency>
 		<dependency>
 			<groupId>info.cukes</groupId>
@@ -183,7 +183,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore></ignore>
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
