@@ -35,7 +35,7 @@
 		<dependency>
 			<groupId>com.hpe.alm.octane</groupId>
 			<artifactId>octane-cucumber-jvm</artifactId>
-			<version>12.53.22</version>
+			<version>12.60.48</version>
 		</dependency>
 
 		<dependency>
@@ -183,7 +183,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore></ignore>
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
