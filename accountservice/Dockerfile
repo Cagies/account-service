@@ -1,4 +1,4 @@
-FROM tomcat:9.0.55-jre11
+FROM tomcat:9.0.96-jre11
 MAINTAINER Assaf Kubany
 
 
